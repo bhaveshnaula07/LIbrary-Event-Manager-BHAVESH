@@ -45,10 +45,6 @@ The system is simple, fast, and works on any machine with Python installed.
 - Automatically updated on each action  
 - Handles corrupted/missing files safely  
 
-### ✅ **4. Logging**
-- All actions logged using Python `logging` module  
-- Log file: `library.log`  
-
 ### ✅ **5. Command-Line Interface (CLI)**
 - Menu-driven  
 - Easy input prompts  
@@ -58,6 +54,4 @@ The system is simple, fast, and works on any machine with Python installed.
 Following the assignment requirement exactly.
 
 ---
-
-## 🗂 Folder Structure
 
